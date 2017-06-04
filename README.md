@@ -1,11 +1,9 @@
 # element-ui-admin
 
-基于 [element-ui](https://github.com/ElemeFE/element) 的单页面后台管理
+单页面后台管理
 
 
 ## 技术栈
-
-
 
 * vue
 * vue-resource
@@ -16,8 +14,7 @@
 * 按路由异步加载
 
 ## 使用方法
-
-项目模版基于 [webpack-driven-web](https://github.com/appbone/webpack-driven-web), 使用方法请参考 [webpack-driven-web](https://github.com/appbone/webpack-driven-web#使用方法)
+(https://github.com/appbone/webpack-driven-web#使用方法)
 
 ## 目录说明
 
