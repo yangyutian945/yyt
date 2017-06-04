@@ -13,8 +13,6 @@
 * 基于路由配置的面包屑
 * 按路由异步加载
 
-## 使用方法
-(https://github.com/appbone/webpack-driven-web#使用方法)
 
 ## 目录说明
 
